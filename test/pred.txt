@@ -1,0 +1,132 @@
+A dog is playing in the open field. A cow standing under a lush green and plants. A small dog on a dog on the ground. A man taking a black dog that's walking down. A dog is laying in the grass next to a parked car
+
+ Time taken: 2.852614s
+
+C:\\Users\\Dell\\Desktop\\Project Show and tell\\image caption\\test\\seq1
+People are drinking wine glasses in front of a half way the mirror. Men are looking into a table with plates of cake. This muffin type deli seating sitting out of each side. A group of women sitting around a table with a big cake. A pretty girl sits atop the back of a couch
+
+ Time taken: 2.959338s
+
+C:\\Users\\Dell\\Desktop\\Project Show and tell\\image caption\\test\\seq1
+A group of men and standing around the dinner table. A woman sitting at a table with plates of cake. This muffin happy sandwich lined up for each other. A group of women sitting around the table with a family making cupcakes. A kid that is eating a white table
+
+ Time taken: 4.349798s
+
+dog
+Two dogs getting his dog on the couch on the grass. A cow is laying down to the sheep next to the windows. A small brown dog that is holding a dog. A man holding a cow stands on a fence. A dog sitting next to a parked car
+
+ Time taken: 3.354450s
+
+dog
+The dog is holding the dog on the couch. A man watching the dog running with his dogs to their pen. A black dog on the dog in the park. A black dog is doing a black dog looks at a fence. A small dog is laying in a bird
+
+ Time taken: 2.448292s
+
+dog
+GG
+
+dog
+Two dogs in the middle of a field. A cow is laying down outside of a garden. A small dog holding a small dog. A dog is doing a white dog walks next to a fence. A dog is laying in the grass
+
+ Time taken: 2.685333s
+
+seq1
+A woman and a person standing in a kitchen. A man sitting at a table eating cake. This muffin has some writing at the table. A group of a man and one man with candles. A pretty girl sitting down near an electronic device
+
+ Time taken: 2.739989s
+
+seq1
+People making food on a table of food. A man sitting at a table eating cake. This muffin is of a few fruit displayed on top. A person cutting a group of cake for a cake. A girl that is eating a white table making video game remote up
+
+ Time taken: 2.296276s
+
+seq1
+Several people enjoying a bunch of food. A group of people sitting around the table with plates of food. One food is set out in the tray. A group of an old man and one woman cat and two people with plates of cake. A pretty girl eating a hot dog
+
+ Time taken: 5.119602s
+
+seq1
+Group of men cooking on a table of food. The man sitting at a table with plates of cake. This muffin with this photo of a bunch of different other has the side of a table. A man and a young friends and a cat is eating cake. A pretty girl sits on the camera
+
+ Time taken: 2.368119s
+
+seq1
+A man standing on a table of a pizza. Some people sitting at a table eating cake. This round metal table of different colored trains of various vegetables on a plate. A group of women that are sitting at a table with a large cake. Two girls who are talking in her lap
+
+ Time taken: 3.693171s
+
+seq1
+A woman helping women serving them holding food. A couple of women sitting at a table with plates of food. This muffin full to a row of vegetables for each other. A group of women sitting at a table with a round table with a big cake. A pretty girl with glasses eating a surfboard
+
+ Time taken: 3.821396s
+
+seq1
+Several people making food on an industrial kitchen. A bunch of women sitting at a table with plates of food. This muffin happy sandwich lined up for the cabinets. Two women sitting around a table with wine in a birthday party. A group of men and standing around a round table with nintendo wii
+
+ Time taken: 2.371859s
+
+seq1
+A man is making food on a table cutting food. A little girl sits down at the table. A variety of different sandwiches of food. A boy appears to look at the table. There are many people eating pizza by him
+
+ Time taken: 2.293779s
+
+seq1
+A good guy standing in front of a pizza. A man sitting at a table with plates of cake. Some type of different vegetables have sandwiches. A group of women at a big sandwiches. A group of women at a couple cutting a cake
+
+ Time taken: 2.270386s
+
+dog
+A dog is playing in the grass. A dog is kneeling in a field. A small dog holding an animal in a parking lot. A black dog is doing a cow pulled up a fence. A dog is laying in the grass as it stands near a computer that has a collar
+
+ Time taken: 3.744620s
+
+dog
+A dog is playing in the grass. A dog has a dog in the grass. A close up of a dog on the ground. A dog hanging over a white fence and a black railing. Two dogs standing over a wooden structure with a small dog
+
+ Time taken: 2.271327s
+
+test
+Two dogs getting his dog in the grass. A couple of people standing next to a lush green grass. A little dog in a pink dog near a dog is laying on the ground. A black dog is doing a green bear cell phone. A woman and white dog laying down to the frisbee
+
+ Time taken: 3.313412s
+
+dog
+A black dog is looking out in the grass. A dogs play with very tall brown path. The dog going down a path in the driveway. A dog is jumping a dog being pulled out a fence. There is a dog sitting in a grassy part of a dirt field
+
+ Time taken: 2.350955s
+
+dog
+A small dog is laying down to the camera. A dog is kneeling on the field and some directional on the field. A little dog with his dog stands near the dog. A black dog is doing a couple pairs with a black dog walks beside a fence. Open dog is laying near a parked car
+
+ Time taken: 3.697671s
+
+dog
+A black dog is looking out in the grass. A dogs play with very tall brown path. The dog going down a path in the driveway. A dog is jumping a dog being pulled out a fence. There is a dog sitting in a grassy part of a dirt field
+
+ Time taken: 3.179469s
+
+dog
+The dog is playing with red frisbee in background. A cow standing on the field wearing. A small dog with a dog standing and looking out over in the front of a dog and riding on the ground. A dog hanging over a girl sits on a fence. A dog is laying under the window laying on it's bed
+
+ Time taken: 3.274902s
+
+seq1
+A person that are serving them holding a food counter. People sitting around a table eating cake. A variety of different sandwiches stacked against each other. A man and the person a person taking a party with wine and a cake. This appears to be fix someone's cell phone
+
+ Time taken: 4.980078s
+
+dog
+A black dog is looking out in the grass. A dogs play with very tall brown path. The dog going down a path in the driveway. A dog is jumping a dog being pulled out a fence. There is a dog sitting in a grassy part of a dirt field
+
+ Time taken: 8.283032s
+
+dog
+A picture of a dog are next to the other dogs in the grass. A dog is kneeling in a yard. A dog holding the dog in the grass. A black dog is doing tricks on a deck. A dog sitting next to a wooden structure painted pink
+
+ Time taken: 2.769569s
+
+dog
+A dog is laying on dog in its hind legs in the grass. A dog that is laying down to a part of a fence. A dog on a dog on a toy building while people watch. A dog hanging over a girl sits on a fence. Two dogs playfully on the edge of a field
+
+ Time taken: 3.67247s
+

@@ -1,0 +1,41 @@
+A dog has his dog on a couch on the grass
+
+ Time taken: 0.693360s
+
+A woman posing for the camera in the ocean
+
+ Time taken: 0.464377s
+
+Two dogs in the water on the dirt. A cow standing next to a lush green grass. A black dog holding a dog on the ground. A man taking a black dog that's by a fence with a traffic cone dressed up the white fence. A dog is laying beside a parked car
+
+ Time taken: 2.309516s
+
+A person that is flying a red kite. Several young men sitting at a table. One donut phones and other items. A couple of women are sitting together for a party. A pretty girl sitting down with a chocolate doughnut
+
+ Time taken: 2.232142s
+
+Dog is playing with a white dog. A person with a speech in front of a store. The young girl plays on the camera by a wall with a cell phone. A group of people standing around on the table. A woman holding a pink umbrella
+
+ Time taken: 2.650611s
+
+A group of people on the beach next to shore. A man prepares to each have cake. This muffin happy sandwich lined up vegetables. A group of women that are sitting at a table with a cake. Man taking a pink bow tie
+
+ Time taken: 2.235554s
+
+Some people in a dry grass. A man prepares to some wine glasses. This is a close up of three parking meter lying on a table. A man and a group of people that are eating dinner together. A girl sits atop a hot dog
+
+ Time taken: 2.299228s
+
+A group of people on the beach next to shore. A family holding pizza and one with food. This muffin happy sandwich lined up for the cabinets. A man and woman are sitting around a table with some plates with a family making cupcakes. Man that has a chocolate doughnut
+
+ Time taken: 2.358135s
+
+A group of people on a beach while on a beach with a kite. A bunch of people sitting around the table with plates of cake. A variety of different sandwiches of food. A young woman having a person with a round candles. A pretty girl wearing glasses lying down with his teeth
+
+ Time taken: 2.807748s
+
+A couple of people are standing and drinking wine. Three women sitting at a table with plates of food. This is a close up of sandwiches of food. A person cutting kids around a cake. A pretty girl sits at a doughnut
+
+ Time taken: 3.198795s
+
+
